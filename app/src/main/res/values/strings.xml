@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Invoice Example</string>
+    <string-array name="items">
+        <item>Orange</item>
+        <item>Mango</item>
+        <item>Banana</item>
+    </string-array>
+
+</resources>
